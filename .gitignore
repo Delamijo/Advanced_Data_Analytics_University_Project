@@ -223,3 +223,4 @@ data/processed/*
 !data/processed/*.npy
 !data/raw/.gitkeep
 !data/processed/.gitkeep
+.DS_Store
