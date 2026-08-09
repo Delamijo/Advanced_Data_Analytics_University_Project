@@ -220,6 +220,7 @@ __marimo__/
 # data folders
 data/raw/*
 data/processed/*
+!data/processed/*.npy
 !data/raw/.gitkeep
 !data/processed/.gitkeep
 .DS_Store
