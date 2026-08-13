@@ -224,3 +224,8 @@ data/processed/*
 !data/raw/.gitkeep
 !data/processed/.gitkeep
 .DS_Store
+
+# optuna stuff
+*.db
+*.cbm
+catboost_info/
