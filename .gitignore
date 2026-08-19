@@ -230,3 +230,4 @@ data/processed/*
 *.cbm
 catboost_info/
 *.json
+*.joblib
