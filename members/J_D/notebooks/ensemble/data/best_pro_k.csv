@@ -1,0 +1,16 @@
+,k,verfahren,modelle,auc_val,auc_test
+6,2,Durchschnitt,Pred_L_xgb_opt_02 + Pred_L_cb_test_02_t_full,0.6388765676143915,0.6490666293929523
+66,3,Durchschnitt,Pred_L_xgb_opt_02 + Pred_L_cb_test_02_t_full + Pred_L_cb_test_03_t_full,0.6387354808822414,0.6495959357503353
+123,4,Durchschnitt,Pred_L_xgb_opt_02 + Pred_L_cb_test_02_t + Pred_L_cb_test_02_t_full + Pred_L_cb_test_03_t_full,0.6383126547740785,0.6499038088489975
+150,5,Durchschnitt,Pred_L_xgb_opt_02 + Pred_L_hgb_opt_04 + Pred_L_cb_test_02_t + Pred_L_cb_test_02_t_full + Pred_L_cb_test_03_t_full,0.6379472971319938,0.6497631963984949
+168,6,Durchschnitt,Pred_L_xgb_opt_02 + Pred_L_hgb_opt_04 + Pred_L_cb_test_02_t + Pred_L_cb_test_02_t_full + Pred_L_cb_test_03_t_full + Pred_L_lr_opt_03,0.6295311130247974,0.6455715675451383
+8,2,Gewichteter Rang,Pred_L_xgb_opt_02 + Pred_L_cb_test_02_t_full,0.6389051370546548,0.6489766284213181
+68,3,Gewichteter Rang,Pred_L_xgb_opt_02 + Pred_L_cb_test_02_t_full + Pred_L_cb_test_03_t_full,0.6388515271511331,0.6496180179823003
+125,4,Gewichteter Rang,Pred_L_xgb_opt_02 + Pred_L_cb_test_02_t + Pred_L_cb_test_02_t_full + Pred_L_cb_test_03_t_full,0.6383558224426812,0.649926349285266
+152,5,Gewichteter Rang,Pred_L_xgb_opt_02 + Pred_L_hgb_opt_04 + Pred_L_cb_test_02_t + Pred_L_cb_test_02_t_full + Pred_L_cb_test_03_t_full,0.6379305365008885,0.6497393858520515
+170,6,Gewichteter Rang,Pred_L_xgb_opt_02 + Pred_L_hgb_opt_04 + Pred_L_cb_test_02_t + Pred_L_cb_test_02_t_full + Pred_L_cb_test_03_t_full + Pred_L_lr_opt_03,0.6363582687231101,0.6493822196167278
+7,2,Rang,Pred_L_xgb_opt_02 + Pred_L_cb_test_02_t_full,0.6389011780086983,0.6489768615428058
+67,3,Rang,Pred_L_xgb_opt_02 + Pred_L_cb_test_02_t_full + Pred_L_cb_test_03_t_full,0.6388462095696097,0.6496192117250912
+124,4,Rang,Pred_L_xgb_opt_02 + Pred_L_cb_test_02_t + Pred_L_cb_test_02_t_full + Pred_L_cb_test_03_t_full,0.6383382700023843,0.6499296732761352
+151,5,Rang,Pred_L_xgb_opt_02 + Pred_L_hgb_opt_04 + Pred_L_cb_test_02_t + Pred_L_cb_test_02_t_full + Pred_L_cb_test_03_t_full,0.6379080442966518,0.649734092386544
+169,6,Rang,Pred_L_xgb_opt_02 + Pred_L_hgb_opt_04 + Pred_L_cb_test_02_t + Pred_L_cb_test_02_t_full + Pred_L_cb_test_03_t_full + Pred_L_lr_opt_03,0.6361154003455198,0.649285952500275
